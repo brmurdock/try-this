@@ -1,0 +1,412 @@
+{"buttons": [
+	{
+    "label": "Default Dither",
+	"function":"script",
+	"tag":"1",
+	"index":0,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+    "buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 610,
+      "y": 875
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+  {
+	"label": "Rapid Sweeps",
+	"function":"script",
+	"tag":"2",
+	"index":1,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+	"buttonImage": "",
+	"imageRotation":90,
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	},
+	"position": {
+      "x": 785,
+      "y": 875
+    }
+  },
+    {
+	"label": "Smooth Sweep",
+	"function":"script",
+	"tag":"3",
+	"index":2,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+	"buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 960,
+      "y": 875
+    },"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+    {
+	"label": "Chatter Sweep",
+	"function":"script",
+	"tag":"4",
+	"index":3,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+	"buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 1135,
+      "y": 875
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+    {
+	"label": "PWD Response",
+	"function":"script",
+	"tag":"5",
+	"index":4,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+    "buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 1310,
+      "y": 875
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+  {
+	"label": "All Scripts",
+	"function":"script",
+	"tag":"6",
+	"index":4,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+    "buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 1485,
+      "y": 875
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+  
+     {
+	"label": "E-Stop",
+	"function":"eStop",
+	"tag":"30",
+	"index":5,
+	"size":{
+		"width": 100,
+		"height": 100
+	},
+	"roundness":200,
+	"font":"ArialMT-16.vlw",
+	"fontSize":24,
+	"textColor":"#000000",
+	"buttonColor":"#FF0000",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+	"buttonImage": "Estop-Button.png",
+	"imageRotation":90,
+	"position": {
+      "x": 430,
+      "y": 875
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+    {
+	"label": "LMS",
+	"function":"postion",
+	"tag":"4",
+	"index":6,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+	"buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 610,
+      "y": 925
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+  {
+	"label": "20°",
+	"function":"postion",
+	"tag":"20",
+	"index":7,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+	"buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 785,
+      "y": 925
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+  {
+	"label": "40°",
+	"function":"postion",
+	"tag":"40",
+	"index":8,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+	"buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 960,
+      "y": 925
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+  {
+	"label": "60°",
+	"function":"postion",
+	"tag":"60",
+	"index":9,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+	"buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 1135,
+      "y": 925
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+  {
+	"label": "90°",
+	"function":"postion",
+	"tag":"90",
+	"index":10,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+	"buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 1310,
+      "y": 925
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+  {
+	"label": "UES",
+	"function":"postion",
+	"tag":"99",
+	"index":11,
+	"size":{
+		"width": 140,
+		"height": 40
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+	"buttonImage": "",
+	"imageRotation":90,
+	"position": {
+      "x": 1485,
+      "y": 925
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  },
+
+   {
+    "label": "Hidden",
+	"function":"exit",
+    "tag":"",
+	"index":12,
+	"size":{
+		"width": 400,
+		"height": 200
+	},
+	"roundness":0,
+	"font":"ArialMT-16.vlw",
+	"fontSize":18,
+	"textColor":"#000000",
+	"buttonColor":"#D6D6D6",
+	"activeColor":"#D8D8D8",
+	"hoverColor":"#E8E8E8",
+    "buttonImage": "LOGO.jpg",
+	"imageRotation":90,
+	"position": {
+      "x": 746,
+      "y": 183
+    },
+	"border":{
+	"color":"#000000",
+	"thickness":0
+	}
+  }
+]}
+
+{"sliders":[
+     "position:{
+		"x":10,
+		"y":800
+		},
+     "range":{
+		"min":4,
+		"max":99
+		}
+     "Size":{
+	 "width": 1900
+	 "height": 40
+	 },
+     "NumberOfTickMarks":17,
+     "SliderMode":"Slider.FLEXIBLE",
+     "Value":33,
+     "DefaultValue":33,
+     "snapToTickMarks":false
+]}
+
+
+
+
+
+
+
+
+
+
+]}
